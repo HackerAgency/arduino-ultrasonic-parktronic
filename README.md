@@ -22,4 +22,4 @@
 - **Buzzer**: `+` -> Pin 13, `-` -> GND
 - **LED**: `Анод (+)` -> Pin 12, `Катод (-)` -> Резистор 220 Ом -> GND
 
-- <img width="676" height="700" alt="image" src="https://github.com/user-attachments/assets/19b98ac3-eb58-45d3-9fee-e540b42aaffd" />
+<img width="676" height="700" alt="image" src="https://github.com/user-attachments/assets/19b98ac3-eb58-45d3-9fee-e540b42aaffd" />
